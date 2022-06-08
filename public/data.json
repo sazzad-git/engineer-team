@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Tim Bray",
+      "company": "co-founded Open Text",
+      "education": "Bachelor of Science degrees in math and computer science",
+      "img": "https://www.zdnet.com/a/img/resize/3d0bd759dfc8a8dcf431ac6151ef9f89193488eb/2020/05/04/043ae393-ab32-4809-a8c1-2630e732ea44/timbrayawsc.jpg?auto=webp&height=900&width=1200",
+      "salary": 240000
+    },
+    {
+      "name": "Paul Buchheit",
+      "company": "worked Intel and Google",
+      "education": "Bachelor degree in computer science",
+      "img": "https://i0.wp.com/careerprep.com.ng/wp-content/uploads/2020/02/Paul-Buchheit_.jpg",
+      "salary": 200000
+    },
+    {
+      "name": "John Carmack",
+      "company": "co-founded id Software",
+      "education": "None",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Carmack_at_GDCA_2017_--_1_March_2017_%28cropped%29.jpeg",
+      "salary": 180000
+    },
+    {
+      "name": "Dave Cutler",
+      "company": "co-founded Agrippa-Ord",
+      "education": "Bachelors degree",
+      "img": "https://www.zdnet.com/a/img/2014/10/04/0f4bef08-4b8d-11e4-b6a0-d4ae52e95e57/cutleronxbox.png",
+      "salary": 190000
+    },
+    {
+      "name": "Max Levchin",
+      "company": "co-founded NetMeridian",
+      "education": "Bachelors degree in computer science",
+      "img": "https://miro.medium.com/max/1400/1*J5MKDPd9ha5u1zMT06Ilzg.jpeg",
+      "salary": 210000
+    },
+    {
+      "name": "Pierre Omidyar",
+      "company": "co-founded Ink eBay Corporation",
+      "education": "Bachelors degree in computer science",
+      "img": "https://omidyar.com/wp-content/uploads/2020/08/Pierre-Omidyar-copy.jpg",
+      "salary": 130000
+    },
+    {
+      "name": "Alexey Pazhitnov",
+      "company": "Co-Founder Microsoft Corporation",
+      "education": "Degree in computer software engineering",
+      "img": "https://cdn.vox-cdn.com/thumbor/6vjci4W3PD9IF_G-7qjAv6wyM-c=/0x0:2000x1339/1200x800/filters:focal(1067x477:1387x797)/cdn.vox-cdn.com/uploads/chorus_image/image/64017432/G_IPPSaA.0.jpeg",
+      "salary": 100000
+    },
+    {
+      "name": "Jimmy Wales",
+      "company": "co-founded Wikipedia",
+      "education": "Bachelors and masters degrees in finance",
+      "img": "https://cdn.thenewstack.io/media/2019/11/51d7b430-1599px-jimmywalesji5-by-joi-ito-in-2008-creative-commons-via-wikipedia-of-course-1024x683.jpg",
+      "salary": 150000
+    },
+    {
+      "name": "Michael Widenius",
+      "company": "co-founded MYSQL and Wikipedia",
+      "education": "None",
+      "img": "https://assets.weforum.org/sf_account/image/Py__2uWWnvCqxpoUqI8sXwCwrMF_ctWVOUF1asRCXfU.jpg",
+      "salary": 120000
+    },
+    {
+      "name": "Jamie Zawinski",
+      "company": "Netscape Communications",
+      "education": "None",
+      "img": "https://qt.azureedge.net/resources/authors-images-large/jamie-zawinski.jpg",
+      "salary": 110000
+    }
+  ]
